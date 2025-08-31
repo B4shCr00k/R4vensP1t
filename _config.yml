@@ -16,7 +16,7 @@ timezone:
 
 title: B4shCr00k # the main title
 
-tagline: R4vensP1t # it will display as the subtitle
+tagline: Endless pursuit of knowledge. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   My own blog :3
@@ -46,7 +46,7 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: 4fZ4QeNIQlHSKga_GWnQHdiLByGCYC5BLUaRlUqEA3w
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/noice.jpg
+avatar: /assets/img/noice.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
